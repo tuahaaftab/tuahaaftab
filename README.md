@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @tuahaaftab
-- 👀 I’m interested in software development and data analysis
-- 🌱 I’m currently taking Kaggle micro-courses to learn ML
-- 💞️ I’m looking to collaborate on nothing for now
+- 👀 I’m a full stack software developer and a data engineer
 - 📫 How to reach me tuahabaftab@gmail.com
 
 <!---
